@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Examinaphone</string>
+    <string name="tagline">cara mudah untuk melakukan ujian</string>
+    <string name="welcome">Selamat Datang di Examinaphone</string>
+    <string name="click">Klik Scan untuk Memulai Ujian</string>
+    <string name="scan">SCAN UJIAN</string>
+    <string name="scheme">SKEMA UJIAN</string>
+    <string name="start">START</string>
+    <string name="back">BACK</string>
+</resources>
